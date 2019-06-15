@@ -6,7 +6,7 @@
 |     Especificação     |         Ana        |        Pedro       |       Robert       |
 | --------------------- | ------------------ | ------------------ | ------------------ |
 | ±1.2 a ±15 VDC (Adj.) | :white_check_mark: | :white_check_mark: | :warning:          |
-| 0 a ±15 VDC (Adj.)    | :heavy_minus_sign: |                    | :white_check_mark: |
+| 0 a ±15 VDC (Adj.)    | :heavy_minus_sign: | :white_check_mark: | :white_check_mark: |
 | ±1A                   | :white_check_mark: | :warning:          | :warning:          |
 | 0A a ±1A (Adj.)       | :heavy_minus_sign: | :white_check_mark: | :white_check_mark: |
 | Entrada 127VAC        | :white_check_mark: | :warning:          | :warning:          |
@@ -29,3 +29,8 @@
 - Lista de preço dos componentes (Bill of Materials) :x:
 - Datasheets em anexo :x:
 - Resultados experimentais e de simulação relevantes em gráficos, tabelas e fotos. :x:
+
+
+## Software utilizado
+
+- KiCad 5.0.1
