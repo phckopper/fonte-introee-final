@@ -1,23 +1,21 @@
 Circuit: * Z:\home\phckopper\Projects\fonte-introee-final\SImulacao_LTSpice\Reguladores\Draft1.asc
 
-Limiting rise time of source v1 to 0.0004
-Limiting fall time of source v1 to 0.0004
 Direct Newton iteration for .op point succeeded.
 
-Date: Thu Jun 27 21:58:15 2019
-Total elapsed time: 4.623 seconds.
+Date: Fri Jul 05 14:18:37 2019
+Total elapsed time: 0.072 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2004027
-traniter = 2004024
-tranpoints = 1002013
-accept = 1001765
-rejected = 248
-matrix size = 4
-fillins = 0
+totiter = 2102
+traniter = 2088
+tranpoints = 1045
+accept = 1045
+rejected = 0
+matrix size = 10
+fillins = 2
 solver = Normal
-Matrix Compiler1: 118 bytes object code size  0.4/0.4/[0.3]
-Matrix Compiler2: 216 bytes object code size  0.4/0.4/[0.4]
+Matrix Compiler1:      31 opcodes  0.5/[0.4]/0.4
+Matrix Compiler2: 906 bytes object code size  0.5/0.5/[0.4]
 
